@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Pin-Tzu and I'm a Master's student studying in Computer Science at USC.
 
 <!--
 **Aragath/Aragath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
