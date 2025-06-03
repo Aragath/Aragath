@@ -1,5 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aragath)](https://github.com/anuraghazra/github-readme-stats)
-
 # Hi there 👋
 ## About me
 - An AI enthusiastic software engineer and machine learning enginner
@@ -25,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aragath)](https://github.com/anuraghazra/github-readme-stats)
