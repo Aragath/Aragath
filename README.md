@@ -1,6 +1,7 @@
 # Hi there 👋
 ## About me
-- An AI enthusiastic software engineer and machine learning enginner
+- My name is Sunny, I'm an AI enthusiastic software engineer and machine learning enginner passionate about building scalable AI solutions that solve real-world problems.
+
 
 ## Skills:
 * Programming Languages: Python, C/C++, SQL
