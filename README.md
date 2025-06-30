@@ -5,7 +5,7 @@
 
 ## Skills:
 * Programming Languages: Python, C/C++, SQL
-* Framework & Libraries: PyTorch, TensorFlow
+* Framework & Libraries: PyTorch, TensorFlow, Django
 * Cloud & DevOps: AWS (SageMaker, S3, EC2)
 * Developer Tools: Git, GitHub
 * Languages: Chinese (Native), English (Fluent), Japanese (Intermediate), Korean (Basic)
